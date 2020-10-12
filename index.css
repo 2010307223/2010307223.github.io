@@ -1,1 +1,59 @@
-
+body{
+	background:url(背景2.jpg)no-repeat left top;
+	background-repeat: repeat;
+}
+body{
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	border-width: 1px;
+	border-style: solid;
+	border-color: white;
+	border-radius: 5px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+p{
+	color: yellow;
+	font-style: italic;
+}
+#zuqiu{
+	color: red;
+	font-style: italic;
+}
+#jianjie{
+	color: blue;
+	font-style: italic;
+}
+#美漫{
+	border-width: 1px;
+	border-style: solid;
+	border-color: white;
+	border-radius: 5px;
+}
+img{
+	float:left;
+}
+#美漫-end{
+	clear: both;
+}
+#足球{border-width: 1px;
+	border-style: solid;
+	border-color: white;
+	border-radius: 5px;
+}
+#其他{border-width: 1px;
+	border-style: solid;
+	border-color: white;
+	border-radius: 5px;
+}
+#美漫2{border-width: 1px;
+	border-style: solid;
+	border-color: white;
+	border-radius: 5px;
+}
+#pku{border-width: 1px;
+	border-style: solid;
+	border-color: white;
+	border-radius: 5px;
+}
